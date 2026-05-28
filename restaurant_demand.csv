@@ -1,0 +1,10 @@
+date,visitor_count,weather,menu_item,orders,category
+2026-05-15,120,Sunny,Special Roast Beef,45,Main
+2026-05-15,120,Sunny,Grilled Abalone Teppanyaki,30,Main
+2026-05-15,120,Sunny,Seasonal Fruit Parfait,50,Dessert
+2026-05-16,150,Cloudy,Special Roast Beef,60,Main
+2026-05-16,150,Cloudy,Grilled Abalone Teppanyaki,25,Main
+2026-05-16,150,Cloudy,Seasonal Fruit Parfait,40,Dessert
+2026-05-17,90,Rainy,Special Roast Beef,20,Main
+2026-05-17,90,Rainy,Grilled Abalone Teppanyaki,15,Main
+2026-05-17,90,Rainy,Seasonal Fruit Parfait,35,Dessert
