@@ -1,5 +1,5 @@
-streamlit==1.32.0
-pandas==2.2.0
-matplotlib==3.8.2
-plotly==5.18.0
-SQLAlchemy==2.0.27
+streamlit
+pandas
+matplotlib
+plotly
+SQLAlchemy
